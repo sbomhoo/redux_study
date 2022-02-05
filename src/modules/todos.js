@@ -1,6 +1,6 @@
 /* 액션 타입 만들기 */
-const ADD_TODO = 'counter/ADD_TODO';
-const TOGGLE_TODO = 'counter/TOGGLE_TODO';
+const ADD_TODO = 'todos/ADD_TODO';
+const TOGGLE_TODO = 'todos/TOGGLE_TODO';
 
 /* 액션 생성 함수 만들기 */
 let nextId = 1; //todo 데이터에서 사용 할 고유 id
